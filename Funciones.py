@@ -50,7 +50,7 @@ def filtrar():
   print("Seleccione Un Genero".center(30,"-"))
   while Salir:
      try:
-          opcionGen=int(input("""[1] Ciencia Ficcion
+          opcionGen=int(input(""" [1] Ciencia Ficcion
 [2] Drama
 [3] Accion
 [4] Terror
